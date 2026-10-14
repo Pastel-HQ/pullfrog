@@ -1,0 +1,33 @@
+.agents/skills/gh-stack/SKILL.md
+  s_0d499b8109e365::t_f8054fc10de849 1-6
+.agents/skills/probe-alpha/SKILL.md
+  s_0d499b8109e365::t_b9a965ba7f50e7 1-8
+.agents/skills/probe-folder/SKILL.md
+  s_0d499b8109e365::t_609c54573cb394 1-6
+.agents/skills/probe-multiline/SKILL.md
+  s_0d499b8109e365::t_74d95ae316c80a 1-8
+.agents/skills/probe-nofm/SKILL.md
+  s_0d499b8109e365::t_bc664491d14a8c 1-3
+.agents/skills/probe-quoted/SKILL.md
+  s_0d499b8109e365::t_eaaab892f58615 1-6
+.claude/skills/probe-alpha/SKILL.md
+  s_0d499b8109e365::t_810e934d7ddf54 1-8
+.claude/skills/probe-beta/SKILL.md
+  s_0d499b8109e365::t_80c208d7c5cee0 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b75ebbe8cec7f63c574571c09a25320b27bd6a3c",
+  "prompts": {},
+  "sessions": {
+    "s_0d499b8109e365": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bccf47dd-d2a7-425a-ade9-426dcb8a5095",
+        "model": "unknown"
+      },
+      "human_author": "berry1001 <berry1001@users.noreply.github.com>"
+    }
+  }
+}
