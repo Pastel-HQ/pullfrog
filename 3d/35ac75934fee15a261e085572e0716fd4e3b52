@@ -1,0 +1,14 @@
+probe-two.txt
+  h_9982079504ce19 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3d35ac75934fee15a261e085572e0716fd4e3b52",
+  "prompts": {},
+  "humans": {
+    "h_9982079504ce19": {
+      "author": "berry1001 <berry1001@users.noreply.github.com>"
+    }
+  }
+}
