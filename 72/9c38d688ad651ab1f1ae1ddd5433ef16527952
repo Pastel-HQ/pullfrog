@@ -1,0 +1,19 @@
+probe-two.txt
+  s_73e04e9a6a7475::t_10c9bd9a125858 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "729c38d688ad651ab1f1ae1ddd5433ef16527952",
+  "prompts": {},
+  "sessions": {
+    "s_73e04e9a6a7475": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e58d9a6c-9a88-4610-ad72-4af53a65a8fe",
+        "model": "unknown"
+      },
+      "human_author": "berry1001 <berry1001@users.noreply.github.com>"
+    }
+  }
+}
